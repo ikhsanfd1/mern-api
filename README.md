@@ -1,6 +1,6 @@
 # Getting Started MERN-api
 
-This project with [MERN-blog](https://github.com/facebook/create-react-app).
+This project with [MERN-blog](https://github.com/ikhsanfd1/MERN-blog).
 
 ## Available Scripts
 
